@@ -1,0 +1,361 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CookieNotice > should render > with default props 1`] = `
+<DocumentFragment>
+  <div
+    class="react-cookienotice-root bottom left"
+  >
+    <div
+      class="react-cookienotice-body"
+    >
+      <div
+        class="react-cookienotice-title"
+      >
+        <span
+          class="react-cookienotice-label"
+        >
+          titleLabel
+        </span>
+      </div>
+      <div
+        class="react-cookienotice-description"
+      >
+        <span
+          class="react-cookienotice-label"
+        >
+          descriptionLabel
+        </span>
+      </div>
+      <div
+        class="react-cookienotice-read-more"
+      >
+        <a
+          class="react-cookienotice-link"
+          href="https://www.example.com"
+          rel="noreferrer"
+          target="_blank"
+        >
+          readMoreLabel
+        </a>
+      </div>
+    </div>
+    <div
+      class="react-cookienotice-buttons"
+    >
+      <button
+        class="react-cookienotice-button"
+      >
+        declineAllButtonLabel
+      </button>
+      <button
+        class="react-cookienotice-button"
+      >
+        customizeButtonLabel
+      </button>
+      <button
+        class="react-cookienotice-button"
+      >
+        acceptAllButtonLabel
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`CookieNotice > should render > with no read more link 1`] = `
+<DocumentFragment>
+  <div
+    class="react-cookienotice-root bottom left"
+  >
+    <div
+      class="react-cookienotice-body"
+    >
+      <div
+        class="react-cookienotice-title"
+      >
+        <span
+          class="react-cookienotice-label"
+        >
+          titleLabel
+        </span>
+      </div>
+      <div
+        class="react-cookienotice-description"
+      >
+        <span
+          class="react-cookienotice-label"
+        >
+          descriptionLabel
+        </span>
+      </div>
+    </div>
+    <div
+      class="react-cookienotice-buttons"
+    >
+      <button
+        class="react-cookienotice-button"
+      >
+        declineAllButtonLabel
+      </button>
+      <button
+        class="react-cookienotice-button"
+      >
+        customizeButtonLabel
+      </button>
+      <button
+        class="react-cookienotice-button"
+      >
+        acceptAllButtonLabel
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`CookieNotice > should render > with placement { vertical: 'bottom', horizontal: 'left' } 1`] = `
+<DocumentFragment>
+  <div
+    class="react-cookienotice-root bottom left"
+  >
+    <div
+      class="react-cookienotice-body"
+    >
+      <div
+        class="react-cookienotice-title"
+      >
+        <span
+          class="react-cookienotice-label"
+        >
+          titleLabel
+        </span>
+      </div>
+      <div
+        class="react-cookienotice-description"
+      >
+        <span
+          class="react-cookienotice-label"
+        >
+          descriptionLabel
+        </span>
+      </div>
+      <div
+        class="react-cookienotice-read-more"
+      >
+        <a
+          class="react-cookienotice-link"
+          href="https://www.example.com"
+          rel="noreferrer"
+          target="_blank"
+        >
+          readMoreLabel
+        </a>
+      </div>
+    </div>
+    <div
+      class="react-cookienotice-buttons"
+    >
+      <button
+        class="react-cookienotice-button"
+      >
+        declineAllButtonLabel
+      </button>
+      <button
+        class="react-cookienotice-button"
+      >
+        customizeButtonLabel
+      </button>
+      <button
+        class="react-cookienotice-button"
+      >
+        acceptAllButtonLabel
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`CookieNotice > should render > with placement { vertical: 'bottom', horizontal: 'right' } 1`] = `
+<DocumentFragment>
+  <div
+    class="react-cookienotice-root bottom right"
+  >
+    <div
+      class="react-cookienotice-body"
+    >
+      <div
+        class="react-cookienotice-title"
+      >
+        <span
+          class="react-cookienotice-label"
+        >
+          titleLabel
+        </span>
+      </div>
+      <div
+        class="react-cookienotice-description"
+      >
+        <span
+          class="react-cookienotice-label"
+        >
+          descriptionLabel
+        </span>
+      </div>
+      <div
+        class="react-cookienotice-read-more"
+      >
+        <a
+          class="react-cookienotice-link"
+          href="https://www.example.com"
+          rel="noreferrer"
+          target="_blank"
+        >
+          readMoreLabel
+        </a>
+      </div>
+    </div>
+    <div
+      class="react-cookienotice-buttons"
+    >
+      <button
+        class="react-cookienotice-button"
+      >
+        declineAllButtonLabel
+      </button>
+      <button
+        class="react-cookienotice-button"
+      >
+        customizeButtonLabel
+      </button>
+      <button
+        class="react-cookienotice-button"
+      >
+        acceptAllButtonLabel
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`CookieNotice > should render > with placement { vertical: 'top', horizontal: 'left' } 1`] = `
+<DocumentFragment>
+  <div
+    class="react-cookienotice-root top left"
+  >
+    <div
+      class="react-cookienotice-body"
+    >
+      <div
+        class="react-cookienotice-title"
+      >
+        <span
+          class="react-cookienotice-label"
+        >
+          titleLabel
+        </span>
+      </div>
+      <div
+        class="react-cookienotice-description"
+      >
+        <span
+          class="react-cookienotice-label"
+        >
+          descriptionLabel
+        </span>
+      </div>
+      <div
+        class="react-cookienotice-read-more"
+      >
+        <a
+          class="react-cookienotice-link"
+          href="https://www.example.com"
+          rel="noreferrer"
+          target="_blank"
+        >
+          readMoreLabel
+        </a>
+      </div>
+    </div>
+    <div
+      class="react-cookienotice-buttons"
+    >
+      <button
+        class="react-cookienotice-button"
+      >
+        declineAllButtonLabel
+      </button>
+      <button
+        class="react-cookienotice-button"
+      >
+        customizeButtonLabel
+      </button>
+      <button
+        class="react-cookienotice-button"
+      >
+        acceptAllButtonLabel
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`CookieNotice > should render > with placement { vertical: 'top', horizontal: 'right' } 1`] = `
+<DocumentFragment>
+  <div
+    class="react-cookienotice-root top right"
+  >
+    <div
+      class="react-cookienotice-body"
+    >
+      <div
+        class="react-cookienotice-title"
+      >
+        <span
+          class="react-cookienotice-label"
+        >
+          titleLabel
+        </span>
+      </div>
+      <div
+        class="react-cookienotice-description"
+      >
+        <span
+          class="react-cookienotice-label"
+        >
+          descriptionLabel
+        </span>
+      </div>
+      <div
+        class="react-cookienotice-read-more"
+      >
+        <a
+          class="react-cookienotice-link"
+          href="https://www.example.com"
+          rel="noreferrer"
+          target="_blank"
+        >
+          readMoreLabel
+        </a>
+      </div>
+    </div>
+    <div
+      class="react-cookienotice-buttons"
+    >
+      <button
+        class="react-cookienotice-button"
+      >
+        declineAllButtonLabel
+      </button>
+      <button
+        class="react-cookienotice-button"
+      >
+        customizeButtonLabel
+      </button>
+      <button
+        class="react-cookienotice-button"
+      >
+        acceptAllButtonLabel
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
